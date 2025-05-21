@@ -28,5 +28,3 @@ This project is a **Streamlit-based analytics dashboard** for chatbot interactio
 
 ---
 
-## Project Structure
-
